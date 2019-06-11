@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "768367173236",
+    "firebase_url": "https://mama-dd269.firebaseio.com",
+    "project_id": "mama-dd269",
+    "storage_bucket": "mama-dd269.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768367173236:android:ea1d4f907422e341",
+        "android_client_info": {
+          "package_name": "com.wielabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768367173236-rp678fhivtajhhol5u8evook4i1ijbmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtiMXB6OTLxKG8dm7zSFoixp98i0xFtQ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

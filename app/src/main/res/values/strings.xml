@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Mama</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="array_technology">
+        <item>Contact us</item>
+        <item>Profile</item>
+        <item>Wallet</item>
+        <item>How it works</item>
+        <item>Help</item>
+        <item>Logout</item>
+        <item>Feedback</item>
+    </string-array>
+
+    <string name="FACEBOOK_APP_ID">404473963433317</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">70e2cfaf09696acf01b4ede0181a692f</string>
+
+    <string-array name="talents">
+        <item>Cricket</item>
+        <item>Programming</item>
+        <item>Badminton</item>
+        <item>Cooking</item>
+        <item>Chess</item>
+        <item>Sports</item>
+        <item>Computer</item>
+    </string-array>
+
+</resources>
